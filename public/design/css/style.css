@@ -1,0 +1,30 @@
+body, html {font-size: 12px;font-family:Verdana;margin:0;padding:0;color:#313131;background:#F3F5F8;}
+
+a {color:#243AD7;}
+img {border:0px;}
+
+div#left {float:left;width:220px;overflow:hidden;padding:20px;background:#C7CFDE;height:290px}
+div#left #copy{margin-top:190px}
+div#content {margin-left:260px;background:#E0E6ED;padding:20px;padding-left:70px;}
+
+div#menu {background:#A3B1C9;padding:20px;}
+div#menu a {padding-right:10px;}
+
+div#block {margin:20px;}
+div#block #title{margin:20px;}
+div#block #text{margin:20px;}
+
+div.header {margin-left:5px;font-weight:bold}
+
+div.success {margin:5px;border:1px solid #4D9C32;background:#bae4ab}
+div.success p{margin:5px;color:green;font-size:1.4em}
+
+form.register dt, dd{padding:2px;}
+form.register label {color:#3E4E68}
+form.register label.required {font-weight:bold}
+form.register dd{padding-bottom:10px;}
+form.register fieldset{margin-left:-60px;width:450px;padding:10px;border:1px solid #A3B1C9}
+form.register fieldset legend{color:#3E4E68;font-size:1.4em;}
+form.register #captcha-input{margin-top:5px;}
+form.register ul.errors {color:red}
+form.register #fieldset-buttonsGroup{border:0px;}
